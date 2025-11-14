@@ -21,41 +21,90 @@ I love solving complex data problems and turning raw data into meaningful, actio
 
 ---
 
-# 🔧 Skills & Tools (Resume Accurate)
+# 🖥️ Skills | Technology | Tools  
 
-### **Programming & Analytics**
-- Python (Pandas, NumPy, Scikit-learn)  
-- SQL (MySQL, Oracle, SQL Server)  
-- Data Wrangling, Statistical Modeling  
-- A/B Testing, Feature Engineering  
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-### **BI & Visualization**
-- Power BI, Tableau, QuickSight  
-- DAX, Advanced Excel  
-- Data Storytelling & KPI Dashboards  
+## 🧩 Programming & Analytics
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="30"/>
+</p>
 
-### **ETL & Data Engineering**
-- ETL/ELT Pipelines  
-- Airflow (Concepts)  
-- Snowflake, Databricks, Delta Lake  
-- API Integration  
-- Data Quality Checks  
+## 📊 BI & Visualization  
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30"/>  
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Amazon%20QuickSight-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30"/>
+</p>
 
-### **Machine Learning**
-- Classification, Regression  
-- Predictive Analytics  
-- Model Evaluation (Precision, Recall, F1)  
+</td>
+<td width="50%" valign="top">
 
-### **Cloud & Databases**
-- **AWS:** S3, Lambda, DynamoDB, API Gateway, ECR  
-- Azure  
-- GCP BigQuery  
+## 🔧 ETL & Data Engineering  
+<p align="left">
+  <img src="https://img.shields.io/badge/ETL%2FELT-3776AB?style=for-the-badge&logo=databricks&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/API%20Integration-000000?style=for-the-badge&logo=fastapi&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Data%20Quality%20Checks-5C2D91?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+</p>
 
-### **Business & Cross-Functional Skills**
-- Requirements Gathering  
-- Root Cause Analysis  
-- Documentation  
-- Stakeholder Collaboration  
+## 🤖 Machine Learning  
+<p align="left">
+  <img src="https://img.shields.io/badge/Classification-3C873A?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Regression-8A2BE2?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Model%20Evaluation-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Predictive%20Analytics-0078D4?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+## ☁️ Cloud & Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="45"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/API%20Gateway-FF4F00?style=for-the-badge&logo=amazon-api-gateway&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white" height="30"/>
+  <img src="https://skillicons.dev/icons?i=azure" height="45"/>
+  <img src="https://skillicons.dev/icons?i=gcp" height="45"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+## 📘 Business & Collaboration  
+<p align="left">
+  <img src="https://img.shields.io/badge/KPI%20Development-0A66C2?style=for-the-badge&logo=target&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Requirements%20Gathering-4caf50?style=for-the-badge&logo=notion&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Root%20Cause%20Analysis-FF5733?style=for-the-badge&logo=googleanalytics&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Documentation-555555?style=for-the-badge&logo=readthedocs&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Cross--Functional%20Collaboration-7B1FA2?style=for-the-badge&logo=microsoft-teams&logoColor=white" height="30"/>
+</p>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
