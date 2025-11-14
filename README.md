@@ -1,122 +1,91 @@
-<h1 align="center">Hi, I'm Aniket Sakharkar 👋</h1>
-<h3 align="center">Data Engineer | Data Analyst | ML Practitioner</h3>
-
+<!-- Hero Banner -->
 <p align="center">
-  <a href="mailto:aniketsakharkar4@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/">LinkedIn</a> •
-  <a href="https://github.com/Asakharkar7">GitHub</a> •
-  <a href="#">Portfolio</a> •
-  <a href="#">Kaggle</a>
+  <img src="https://raw.githubusercontent.com/Asakharkar7/Asakharkar7/main/assets/data-engineer-banner.gif" width="100%" alt="banner"/>
+</p>
+
+<h1 align="center">👋 Hi, I'm <b>Aniket Sakharkar</b></h1>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&center=true&vCenter=true&width=800&lines=Data+Engineer;Data+Analyst;Machine+Learning+Practitioner;Cloud+ETL+Developer;AWS+%7C+Snowflake+%7C+Databricks;Turning+Raw+Data+Into+Impactful+Insights" />
 </p>
 
 ---
 
-## 🔍 About Me
-Data professional with hands-on experience across **data engineering, analytics, and applied machine learning**.  
-I specialize in building **ETL/ELT pipelines**, **Power BI dashboards**, **serverless ML systems**, and **end-to-end reporting ecosystems** using **Python, SQL, Snowflake, AWS, and Databricks**.
+## 🌟 About Me
 
-I enjoy turning raw messy data into **automated, scalable, insight-driven pipelines**.
+💼 I'm a **Data Engineer & Data Analyst** skilled in building automated **ETL pipelines**, designing scalable **Snowflake/Databricks data models**, creating **Power BI dashboards**, and deploying **serverless ML APIs** using AWS.
 
----
+🎯 I bridge analytics + engineering by turning messy data into **clean, high-impact business insights**.
 
-## 🧠 Technical Skills
-
-### **Programming & Analytics**
-Python (Pandas, NumPy, Scikit-learn) • SQL (MySQL, Oracle, SQL Server)  
-Statistical Modeling • A/B Testing • Experimental Design • Feature Engineering  
-
-### **Data Engineering**
-ETL/ELT Pipelines • Airflow (Concepts) • Snowflake • Databricks • Delta Lake  
-API Integration • Data Quality Frameworks • CI/CD for Data Pipelines  
-
-### **Business Intelligence**
-Power BI • Tableau • QuickSight • Advanced Excel • DAX • KPI Design  
-
-### **Machine Learning**
-Classification • Regression • Model Evaluation • Predictive Analytics  
-
-### **Cloud & Databases**
-AWS (S3, Lambda, DynamoDB, API Gateway, ECR) • Azure • GCP BigQuery  
+📍 Boston, USA  
+📧 **aniketsakharkar4@gmail.com**
 
 ---
 
-## 🏢 Experience
+# 🔧 Skills · Tech · Tools
 
-### **Data Analyst — KGS Technology (Feb 2025 – Aug 2025)**
-- Built **Power BI dashboards** for service quality, AOV, and delivery performance across 4 regions & 17 product categories  
-- Improved **data accuracy by 30%** through SQL-driven reconciliation  
-- Delivered insights that enhanced decision-making cycles by **12%**  
-- Created KPI documentation and logic definitions for cross-functional teams  
-
-### **Data Analyst — Rebecca Everlene Trust Company (Feb 2024 – Jan 2025)**
-- Designed dashboards to monitor engagement & satisfaction for **1,083 students**  
-- Cleaned & unified **10K+ monthly CRM + attendance rows**, improving consistency by **35%**  
-- Automated reporting pipelines → Refresh frequency improved (monthly → weekly)  
-- Reduced manual reporting effort by **60%**  
-
-### **Data Analyst Intern — State Farm Insurance (May 2023 – Aug 2023)**
-- Improved analysis speed by **15%** using DBeaver for large-scale health datasets  
-- Automated SQL + reporting → **64% accuracy improvement**  
-- Built health analytics POC enabling **85% seamless migration to AWS**  
-- Designed statistical models improving pricing accuracy by **25%**
-
----
-
-## 🧪 Projects (Pinned on GitHub)
-
-### 🚚 **Supply Chain ML Inference System**  
-Real-time prediction API for shipment ETA delays using:  
-Snowflake • Databricks • Docker • AWS Lambda • API Gateway
-
-### 🗄️ **AWS Serverless ETL Pipeline**  
-Event-driven ingestion → Transform CSV on S3 → Store into DynamoDB using Lambda
-
-### 🤖 **Serverless ML Prediction API**  
-Deployed scikit-learn model via Lambda + API Gateway (Latency < 100ms)
-
-### 🛒 **Databricks Retail ELT Pipeline**  
-PySpark + Delta Lake (Bronze → Silver → Gold) + Retail Dashboards & KPIs
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<p align="left">
-
-<!-- Programming -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-<!-- Cloud -->
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-
-<!-- Data -->
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-<img src="https://img.shields.io/badge/Databricks-EF3E2B?style=for-the-badge&logo=databricks&logoColor=white" />
-
-<!-- BI -->
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-
+### 🧩 **Programming**
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,r,java,js" height="45"/>
 </p>
 
+### 🛠️ **Data Engineering**
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,postgres,mysql,sqlite" height="45"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
+</p>
+
+### 📊 **Analytics + BI**
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/QuickSight-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+### 🤖 **Machine Learning**
+- Classification, Regression, Feature Engineering  
+- Real-time ML inference (AWS Lambda + API Gateway)  
+- Model evaluation (Precision, Recall, F1, ROC)
+
 ---
 
-## 📊 GitHub Analytics
+# 🚀 Featured Work
+
+### 🔹 **Supply Chain Shipment Delay Prediction (Real-Time ML)**
+Snowflake · Databricks · Docker · AWS Lambda  
+→ Predicts ETA delays using fully serverless inference.
+
+### 🔹 **AWS Serverless ETL Pipeline**
+S3 → Lambda → DynamoDB  
+→ Automated CSV ingestion + transformation.
+
+### 🔹 **Databricks Retail ELT Pipeline**
+PySpark + Delta Lake (Bronze → Silver → Gold)  
+→ Generated KPIs & dashboards for retail analytics.
+
+### 🔹 **Serverless ML Prediction API**
+Scikit-learn model deployed via Lambda  
+→ <100ms prediction latency.
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asakharkar7&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asakharkar7&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Asakharkar7&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Asakharkar7&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asakharkar7&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asakharkar7&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake Animation
 
 <p align="center">
   <img src="https://github.com/Asakharkar7/Asakharkar7/blob/output/github-contribution-grid-snake.svg" />
@@ -124,23 +93,21 @@ PySpark + Delta Lake (Bronze → Silver → Gold) + Retail Dashboards & KPIs
 
 ---
 
-## 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=Asakharkar7&color=blue)
+# 📈 Profile Views  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Asakharkar7&color=blueviolet&style=for-the-badge">
+</p>
 
 ---
 
-## 🌱 Currently Learning
-- Databricks ML  
-- Event-driven architectures  
-- Advanced SQL + Data Modeling  
+# 🔗 Connect With Me
 
-## 🎯 Goals for 2025
-- Build more serverless ML products  
-- Contribute to open-source data tooling  
-- Complete Snowflake SnowPro certification  
+<p align="center">
+<a href="https://www.linkedin.com/in/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+&nbsp;&nbsp;
+<a href="mailto:aniketsakharkar4@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
+</p>
 
 ---
-
-## 🤝 Let's Connect!
-I’m always open to discussing data engineering, machine learning systems, or cool side projects.
-
