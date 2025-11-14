@@ -1,10 +1,10 @@
 # 👀 Profile Views
----
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Asakharkar7&color=blue&style=for-the-badge">
 </p>
 
-
+---
 <h1 align="center">👋 Hi, I'm <b>Aniket Sakharkar</b></h1>
 
 <!-- Typing Animation -->
