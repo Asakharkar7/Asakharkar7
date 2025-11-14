@@ -1,3 +1,10 @@
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Asakharkar7&color=blue&style=for-the-badge">
+</p>
+
+
 <h1 align="center">👋 Hi, I'm <b>Aniket Sakharkar</b></h1>
 
 <!-- Typing Animation -->
@@ -125,19 +132,6 @@ Snowflake · Databricks · Docker · AWS Lambda
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asakharkar7&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Asakharkar7&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asakharkar7&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
----
-
 # 🐍 Contribution Snake Animation
 
 <p align="center">
@@ -146,13 +140,6 @@ Snowflake · Databricks · Docker · AWS Lambda
 
 ---
 
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asakharkar7&color=blue&style=for-the-badge">
-</p>
-
----
 
 # 🔗 Connect With Me
 
