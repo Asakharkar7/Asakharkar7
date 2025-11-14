@@ -15,7 +15,7 @@ through **Power BI, Tableau, SQL**, and **predictive analytics**.
 
 I love solving complex data problems and turning raw data into meaningful, actionable insights.
 
-📍 Boston, USA  
+📍 Lancaster, PA, USA  
 📧 **aniketsakharkar4@gmail.com**  
 🌐 **Portfolio:** https://asakharkar7.github.io/Portfolio/  
 
