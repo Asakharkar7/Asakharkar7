@@ -1,74 +1,78 @@
-<!-- Hero Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Asakharkar7/Asakharkar7/main/assets/data-engineer-banner.gif" width="100%" alt="banner"/>
-</p>
-
 <h1 align="center">👋 Hi, I'm <b>Aniket Sakharkar</b></h1>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&center=true&vCenter=true&width=800&lines=Data+Engineer;Data+Analyst;Machine+Learning+Practitioner;Cloud+ETL+Developer;AWS+%7C+Snowflake+%7C+Databricks;Turning+Raw+Data+Into+Impactful+Insights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&center=true&vCenter=true&width=800&lines=Data+Engineer;Data+Analyst;Machine+Learning+Practitioner;ETL+%2F+ELT+Developer;AWS+%7C+Snowflake+%7C+Databricks;Turning+Data+Into+Impactful+Insights" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-💼 I'm a **Data Engineer & Data Analyst** skilled in building automated **ETL pipelines**, designing scalable **Snowflake/Databricks data models**, creating **Power BI dashboards**, and deploying **serverless ML APIs** using AWS.
+I'm a **Data Engineer & Data Analyst** skilled in building automated **ETL/ELT pipelines**,  
+designing scalable **Snowflake + Databricks data models**, and delivering business insights  
+through **Power BI, Tableau, SQL**, and **predictive analytics**.
 
-🎯 I bridge analytics + engineering by turning messy data into **clean, high-impact business insights**.
+I love solving complex data problems and turning raw data into meaningful, actionable insights.
 
 📍 Boston, USA  
-📧 **aniketsakharkar4@gmail.com**
+📧 **aniketsakharkar4@gmail.com**  
+🌐 **Portfolio:** https://asakharkar7.github.io/Portfolio/  
 
 ---
 
-# 🔧 Skills · Tech · Tools
+# 🔧 Skills & Tools (Resume Accurate)
 
-### 🧩 **Programming**
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,r,java,js" height="45"/>
-</p>
+### **Programming & Analytics**
+- Python (Pandas, NumPy, Scikit-learn)  
+- SQL (MySQL, Oracle, SQL Server)  
+- Data Wrangling, Statistical Modeling  
+- A/B Testing, Feature Engineering  
 
-### 🛠️ **Data Engineering**
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,postgres,mysql,sqlite" height="45"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
-</p>
+### **BI & Visualization**
+- Power BI, Tableau, QuickSight  
+- DAX, Advanced Excel  
+- Data Storytelling & KPI Dashboards  
 
-### 📊 **Analytics + BI**
-<p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/QuickSight-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
+### **ETL & Data Engineering**
+- ETL/ELT Pipelines  
+- Airflow (Concepts)  
+- Snowflake, Databricks, Delta Lake  
+- API Integration  
+- Data Quality Checks  
 
-### 🤖 **Machine Learning**
-- Classification, Regression, Feature Engineering  
-- Real-time ML inference (AWS Lambda + API Gateway)  
-- Model evaluation (Precision, Recall, F1, ROC)
+### **Machine Learning**
+- Classification, Regression  
+- Predictive Analytics  
+- Model Evaluation (Precision, Recall, F1)  
+
+### **Cloud & Databases**
+- **AWS:** S3, Lambda, DynamoDB, API Gateway, ECR  
+- Azure  
+- GCP BigQuery  
+
+### **Business & Cross-Functional Skills**
+- Requirements Gathering  
+- Root Cause Analysis  
+- Documentation  
+- Stakeholder Collaboration  
 
 ---
 
-# 🚀 Featured Work
+# 🚀 Featured Projects (Pinned in GitHub)
 
-### 🔹 **Supply Chain Shipment Delay Prediction (Real-Time ML)**
+### 🔹 **Real-Time Supply Chain ML Inference**
 Snowflake · Databricks · Docker · AWS Lambda  
-→ Predicts ETA delays using fully serverless inference.
+→ Real-time prediction system for shipment delay detection.
 
 ### 🔹 **AWS Serverless ETL Pipeline**
-S3 → Lambda → DynamoDB  
-→ Automated CSV ingestion + transformation.
+→ Automated ingestion + transformation using S3 triggers, Lambda, DynamoDB.
 
 ### 🔹 **Databricks Retail ELT Pipeline**
-PySpark + Delta Lake (Bronze → Silver → Gold)  
-→ Generated KPIs & dashboards for retail analytics.
+→ PySpark + Delta Lake pipeline with retail KPIs and dashboards.
 
 ### 🔹 **Serverless ML Prediction API**
-Scikit-learn model deployed via Lambda  
-→ <100ms prediction latency.
+→ Deployed scikit-learn model on AWS Lambda + API Gateway.
 
 ---
 
@@ -93,9 +97,10 @@ Scikit-learn model deployed via Lambda
 
 ---
 
-# 📈 Profile Views  
+# 👀 Profile Views
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asakharkar7&color=blueviolet&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=Asakharkar7&color=blue&style=for-the-badge">
 </p>
 
 ---
@@ -107,7 +112,5 @@ Scikit-learn model deployed via Lambda
 &nbsp;&nbsp;
 <a href="mailto:aniketsakharkar4@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
+<a href="https://asakharkar7.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="45"/></a>
 </p>
-
----
