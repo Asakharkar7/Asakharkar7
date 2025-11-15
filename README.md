@@ -131,10 +131,12 @@ Snowflake · Databricks · Docker · AWS Lambda
 
 ---
 
-# 🐍 Contribution Snake Animation
+
+## 🐍 Contribution Snake Animation  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Asakharkar7/Asakharkar7/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Asakharkar7/Asakharkar7/main/dist/github-contribution-grid-snake.svg" 
+       alt="GitHub Contribution Snake" />
 </p>
 
 
