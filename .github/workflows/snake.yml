@@ -9,12 +9,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+
+      # FIX: Checkout your repo
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      # Generate the snake
       - uses: Platane/snk@v3
         with:
           github_user_name: Asakharkar7
           outputs: |
             dist/github-contribution-grid-snake.svg
 
+      # Push the snake to the output branch
       - name: Push to output branch
         uses: EndBug/add-and-commit@v9
         with:
@@ -23,4 +30,3 @@ jobs:
           add: "dist/github-contribution-grid-snake.svg"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
