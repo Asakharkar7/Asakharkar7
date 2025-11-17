@@ -23,7 +23,7 @@ I love solving complex data problems and turning raw data into meaningful, actio
 
 📍 Lancaster, PA, USA  
 📧 **aniketsakharkar4@gmail.com**  
-🌐 **Portfolio:** https://asakharkar7.github.io/Aniket-Portfolio/
+🌐 https://asakharkar7.github.io/Aniket-Portfolio/
 ---
 
 # 🖥️ Skills | Technology | Tools  
