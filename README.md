@@ -149,5 +149,5 @@ Snowflake · Databricks · Docker · AWS Lambda
 &nbsp;&nbsp;
 <a href="mailto:aniketsakharkar4@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
 &nbsp;&nbsp;
-<a href="https://asakharkar7.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="45"/></a>
+<a href="https://asakharkar7.github.io/Aniket-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="45"/></a>
 </p>
